@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2022-05-21T02:57:13.210Z",
+    "name": "avion",
+    "description": "esto es un avion",
+    "code": "6060155",
+    "thumbnail": "oooooo",
+    "price": "50.000"
+  },
+  {
+    "id": 2,
+    "timestamp": "2022-05-21T05:59:53.806Z",
+    "name": "moto",
+    "description": "esto es una moto",
+    "code": "70700101",
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/transportation-volume-ii/128/zmotorcycle-128.png",
+    "price": "30.000"
+  },
+  {
+    "id": 3,
+    "timestamp": "2022-05-23T19:31:49.465Z",
+    "name": "auto",
+    "description": "esto es un auto",
+    "code": "111111111112",
+    "thumbnail": "kkkkkkkk",
+    "price": "110.000"
+  }
+]
